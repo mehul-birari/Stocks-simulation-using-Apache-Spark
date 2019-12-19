@@ -1,6 +1,6 @@
-# Apache Spark Homework Assignment 3 	(Mehul Birari)
+# Apache Spark 
 
-Apache Spark program to parallelly process Monte Carlo Simulation to 
+Apache Spark program to parallelly process Monte Carlo Simulation 
   
 ## How to run the project
 
