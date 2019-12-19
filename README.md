@@ -37,7 +37,7 @@ The output shows the various results we obtain after the the simulation.
 
 - CSV file output generated containing the profit calculated according to the algorithm.
 
-![Sorted by publication count](http://raw.githubusercontent.com/mehul-birari/Stocks-simulation-using-Apache-Spark/master/images/Picture3.JPG "Sorted by publication count")
+![Sorted by publication count](https://raw.githubusercontent.com/mehul-birari/Stocks-simulation-using-Apache-Spark/master/images/Picture3.JPG "Sorted by publication count")
 
  
  
